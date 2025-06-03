@@ -8,13 +8,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/microsoft/319/locked-with-pen_1f50f.png" width="28" />
   <b><i>PENETRATION TESTER</i></b>
   &nbsp;|&nbsp;
-  <img src="https://em-content.zobj.net/thumbs/240/microsoft/319/laptop_1f4bb.png" width="28" />
   <b><i>LINUX RICE LORD</i></b>
   &nbsp;|&nbsp;
-  <img src="https://em-content.zobj.net/thumbs/240/microsoft/319/globe-showing-asia-australia_1f30f.png" width="28" />
   <b><i>FULL-STACK DEV</i></b>
 </p>
 
