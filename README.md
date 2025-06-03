@@ -6,12 +6,21 @@
 <h1 align="center">Yo, I'm Elshod 👨‍💻 aka <code>looksmaxxer11</code></h1>
 <p align="center">penetration tester | linux rice lord | full-stack dev</p>
 
-<p align="center">
-  <a href="https://github.com/looksmaxxer11"><img src="https://img.shields.io/github/followers/looksmaxxer11?label=Follow&style=social"></a>
-  <a href="mailto:karimovelshod4@gmail.com"><img src="https://img.shields.io/badge/email-karimovelshod4@gmail.com-red?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/elshod-karimov-62124a345"><img src="https://img.shields.io/badge/LinkedIn-Elshod%20Karimov-blue?style=flat&logo=linkedin"></a>
-  <a href="https://t.me/archuser_life"><img src="https://img.shields.io/badge/Telegram-%40archuser__life-blue?style=flat&logo=telegram"></a>
+<p align="center" style="font-size:18px;">
+  <a href="https://github.com/looksmaxxer11" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32px" />
+  </a>
+  <a href="mailto:karimovelshod4@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="32px" />
+  </a>
+  <a href="https://www.linkedin.com/in/elshod-karimov-62124a345" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />
+  </a>
+  <a href="https://t.me/archuser_life" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="32px" />
+  </a>
 </p>
+
 
 ---
 
