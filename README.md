@@ -3,21 +3,21 @@
 </div>
 
 
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Yo%2C+I'm+Elshod+%F0%9F%91%B6%F0%9F%92%BB;aka+%60looksmaxxer11%60+%F0%9F%A4%AA%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Yo%2C+I'm+Elshod+🧑‍💻;aka+%60looksmaxxer11%60+💀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/w3WGLHjzZnUAAAAi/hacker-anonymous.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/ElshodKarimov/assets/main/hacker.gif" width="30" />
   <b><i>penetration tester</i></b>
   &nbsp;|&nbsp;
-  <img src="https://media.tenor.com/UN1c6f2-9pQAAAAi/linux-penguin.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/ElshodKarimov/assets/main/linux.gif" width="30" />
   <b><i>linux rice lord</i></b>
   &nbsp;|&nbsp;
-  <img src="https://media.tenor.com/tEByy0mDQIYAAAAi/laptop-coding.gif" width="30" />
+  <img src="https://raw.githubusercontent.com/ElshodKarimov/assets/main/coding.gif" width="30" />
   <b><i>full-stack dev</i></b>
 </p>
+
 
 
 
