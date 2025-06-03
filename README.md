@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/VZgBR5E.gif" width="100%" />
+  <img src="https://media.tenor.com/mVZP8x4ekLkAAAAC/hacker-anonymous.gif" width="100%" />
 </div>
 
 <h1 align="center">Yo, I'm Elshod 👨‍💻 aka <code>looksmaxxer11</code></h1>
