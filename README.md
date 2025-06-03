@@ -1,4 +1,3 @@
-!-- Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=yo%2C+i’m+Elshod+aka+archuser_life;frontend+dev+%2B+cybersecurity+apprentice;coffee+%26+keyboard+%3D+therapy" alt="Typing SVG" />
 </p>
