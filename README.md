@@ -4,14 +4,20 @@
 
 
 
-<h1 align="center" style="font-family: 'Fira Code', monospace; font-weight: bold; font-size: 2.4em;">
-  🕶️ Yo, I'm <span style="color:#00ffe5;">Elshod</span> <span style="font-size: 0.8em;">aka</span> <code style="background:#111;padding:2px 6px;border-radius:6px;color:#00f7ff;">looksmaxxer11</code>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Yo%2C+I'm+Elshod+%F0%9F%91%B6%F0%9F%92%BB;aka+%60looksmaxxer11%60+%F0%9F%A4%AA%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
-<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 1.1em; color:#aaa;">
-  ⛓️ penetration tester · 🖥️ linux rice lord · 🌐 full-stack dev
+<p align="center">
+  <img src="https://media.tenor.com/w3WGLHjzZnUAAAAi/hacker-anonymous.gif" width="30" />
+  <b><i>penetration tester</i></b>
+  &nbsp;|&nbsp;
+  <img src="https://media.tenor.com/UN1c6f2-9pQAAAAi/linux-penguin.gif" width="30" />
+  <b><i>linux rice lord</i></b>
+  &nbsp;|&nbsp;
+  <img src="https://media.tenor.com/tEByy0mDQIYAAAAi/laptop-coding.gif" width="30" />
+  <b><i>full-stack dev</i></b>
 </p>
-
 
 
 
