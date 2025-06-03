@@ -4,17 +4,17 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Yo%2C+I'm+Elshod+🧑‍💻;aka+%60looksmaxxer11%60+💀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Yo%2C+I'm+Elshod+aka+%60looksmaxxer11%60+%F0%9F%A4%AA%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElshodKarimov/assets/main/hacker.gif" width="30" />
+  <img src="https://em-content.zobj.net/thumbs/240/microsoft/319/locked-with-pen_1f50f.png" width="28" />
   <b><i>penetration tester</i></b>
   &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/ElshodKarimov/assets/main/linux.gif" width="30" />
+  <img src="https://em-content.zobj.net/thumbs/240/microsoft/319/laptop_1f4bb.png" width="28" />
   <b><i>linux rice lord</i></b>
   &nbsp;|&nbsp;
-  <img src="https://raw.githubusercontent.com/ElshodKarimov/assets/main/coding.gif" width="30" />
+  <img src="https://em-content.zobj.net/thumbs/240/microsoft/319/globe-showing-asia-australia_1f30f.png" width="28" />
   <b><i>full-stack dev</i></b>
 </p>
 
