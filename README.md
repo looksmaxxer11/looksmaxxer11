@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Yo, I'm Elshod 👨‍💻 aka <code>looksmaxxer11</code></h1>
-<p align="center">cybersecurity | linux rice lord | anime-coded dev</p>
+<p align="center">penetration tester | linux rice lord | full-stack dev</p>
 
 <p align="center">
   <a href="https://github.com/looksmaxxer11"><img src="https://img.shields.io/github/followers/looksmaxxer11?label=Follow&style=social"></a>
