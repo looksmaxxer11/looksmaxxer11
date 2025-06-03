@@ -31,7 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=neovim,tmux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004659?style=for-the-badge&logo=gnometerminal&logoColor=white" />
