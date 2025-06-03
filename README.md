@@ -38,7 +38,7 @@
 
 ### 🧠 Who Am I
 - 🕶️ Based in terminal 24/7 — Arch Linux / Hyprland ricer
-- 🛡️ Ethical hacking learner (Hack The Box enjoyer)
+- 🛡️ Ethical hacking learner (Try Hack Me enjoyer)
 - 🧠 Studying reverse engineering, CTFs & web exploits
 - 🔌 Former frontend dev slowly losing sanity in backend & sec
 - 🌑 I love dark themes, anime, Mr. Robot, and full root access
