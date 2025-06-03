@@ -27,17 +27,17 @@
 ### 🛠️ Tools I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,react,nodejs,mongodb,vscode,git,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,react,nodejs,mongodb,git,vscode,arch" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Burp%20Suite-red?style=flat&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Wireshark-1f4cf?style=flat&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-004659?style=flat&logo=gnometerminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Metasploit-222?style=flat&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tmux-1D1F21?style=flat&logo=tmux&logoColor=green" />
-  <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=neovim,tmux" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-004659?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=blue" />
 </p>
+
 
 ---
 
