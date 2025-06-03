@@ -27,7 +27,7 @@
 ### 🛠️ Tools I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,react,nodejs,mongodb,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,js,react,nodejs,mongodb,vscode,git,arch" />
 </p>
 
 <p align="center">
