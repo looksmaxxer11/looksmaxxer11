@@ -1,10 +1,10 @@
-<!-- Typing Header -->
+![wallhaven-vgg295_1920x1080 (1)](https://github.com/user-attachments/assets/d436c204-7966-43fc-b741-f8678176a68c)<!-- Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=yo%2C+i’m+Elshod+aka+archuser_life;frontend+dev+%2B+cybersecurity+apprentice;coffee+%26+keyboard+%3D+therapy" alt="Typing SVG" />
 </p>
 
 <div align="center">
-<img width="" height = "" src="https://whvn.cc/vgg295.png" alt="cover" />
+<img width="" height = "" src="https://w.wallhaven.cc/full/vg/wallhaven-vgg295.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
