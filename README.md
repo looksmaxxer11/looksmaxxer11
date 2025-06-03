@@ -3,8 +3,14 @@
 
 </div>
 
-<h1 align="center">Yo, I'm Elshod 👨‍💻 aka <code>looksmaxxer11</code></h1>
-<p align="center">penetration tester | linux rice lord | full-stack dev</p>
+<h1 align="center" style="font-family: 'Fira Code', monospace; font-weight: bold; font-size: 2.4em;">
+  🕶️ Yo, I'm <span style="color:#00ffe5;">Elshod</span> <span style="font-size: 0.8em;">aka</span> <code style="background:#111;padding:2px 6px;border-radius:6px;color:#00f7ff;">looksmaxxer11</code>
+</h1>
+
+<p align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 1.1em; color:#aaa;">
+  ⛓️ penetration tester · 🖥️ linux rice lord · 🌐 full-stack dev
+</p>
+
 
 
 
