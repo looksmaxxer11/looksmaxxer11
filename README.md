@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/cfeopMwD7zq.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTNzYmt3amJub3I3YXFkaHV2YzIwbGJ3NDZ1aWwyc29vdXRsYnJzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
 
 </div>
 
@@ -31,8 +31,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=tmux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-004659?style=for-the-badge&logo=gnometerminal&logoColor=white" />
