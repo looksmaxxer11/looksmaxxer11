@@ -68,10 +68,10 @@
     src="https://github-readme-stats.vercel.app/api?username=looksmaxxer11&show_icons=true&theme=tokyonight&hide=contribs&count_private=true" 
     style="height: 180px; width: auto; margin-right: 10px;"
   />
-  <img 
+<!--   <img 
     src="https://streak-stats.demolab.com?user=looksmaxxer11&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" 
     style="height: 180px; width: auto;"
-  />
+  /> -->
 </div>
 
 
